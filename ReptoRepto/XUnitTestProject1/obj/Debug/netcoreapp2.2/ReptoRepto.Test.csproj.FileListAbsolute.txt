@@ -1,0 +1,4 @@
+C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.csprojAssemblyReference.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.AssemblyInfo.cs

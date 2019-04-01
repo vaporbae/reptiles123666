@@ -1,0 +1,9 @@
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\bin\Debug\netstandard2.0\ReptoRepto.Common.deps.json
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\bin\Debug\netstandard2.0\ReptoRepto.Common.dll
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\obj\Debug\netstandard2.0\ReptoRepto.Common.csprojAssemblyReference.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\obj\Debug\netstandard2.0\ReptoRepto.Common.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\obj\Debug\netstandard2.0\ReptoRepto.Common.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\obj\Debug\netstandard2.0\ReptoRepto.Common.AssemblyInfo.cs
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\bin\Debug\netstandard2.0\ReptoRepto.Common.pdb
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\obj\Debug\netstandard2.0\ReptoRepto.Common.dll
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Common\obj\Debug\netstandard2.0\ReptoRepto.Common.pdb

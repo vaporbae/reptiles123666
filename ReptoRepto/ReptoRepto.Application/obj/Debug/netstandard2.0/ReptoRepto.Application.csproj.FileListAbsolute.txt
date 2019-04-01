@@ -1,0 +1,14 @@
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Application.deps.json
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Application.dll
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.csprojAssemblyReference.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.AssemblyInfo.cs
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Application.pdb
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Persistence.dll
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\bin\Debug\netstandard2.0\ReptoRepto.Persistence.pdb
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.csproj.CopyComplete
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.dll
+C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Application\obj\Debug\netstandard2.0\ReptoRepto.Application.pdb
