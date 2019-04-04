@@ -10,3 +10,15 @@ C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Persistence\bin\Debug\netst
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.csproj.CopyComplete
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.dll
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\bin\Debug\netstandard2.0\ReptoRepto.Persistence.deps.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\bin\Debug\netstandard2.0\ReptoRepto.Persistence.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\bin\Debug\netstandard2.0\ReptoRepto.Persistence.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\bin\Debug\netstandard2.0\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\bin\Debug\netstandard2.0\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.csprojAssemblyReference.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.AssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.csproj.CopyComplete
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Persistence\obj\Debug\netstandard2.0\ReptoRepto.Persistence.pdb

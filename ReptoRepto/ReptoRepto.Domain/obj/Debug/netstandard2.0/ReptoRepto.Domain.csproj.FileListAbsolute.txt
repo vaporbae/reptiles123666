@@ -7,3 +7,12 @@ C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandar
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Domain\bin\Debug\netstandard2.0\ReptoRepto.Domain.pdb
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.dll
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\bin\Debug\netstandard2.0\ReptoRepto.Domain.deps.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\bin\Debug\netstandard2.0\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\bin\Debug\netstandard2.0\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.csprojAssemblyReference.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.AssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Domain\obj\Debug\netstandard2.0\ReptoRepto.Domain.pdb

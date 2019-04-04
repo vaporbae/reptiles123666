@@ -21,3 +21,26 @@ C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\Raz
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.RazorTargetAssemblyInfo.cache
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.RazorTargetAssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Api.deps.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Api.runtimeconfig.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Api.runtimeconfig.dev.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Api.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Api.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Application.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Infrastructure.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Persistence.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Application.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Infrastructure.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Persistence.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\bin\Debug\netcoreapp2.2\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.csprojAssemblyReference.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.RazorAssemblyInfo.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.RazorAssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.AssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.RazorTargetAssemblyInfo.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.csproj.CopyComplete
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto\obj\Debug\netcoreapp2.2\ReptoRepto.Api.pdb

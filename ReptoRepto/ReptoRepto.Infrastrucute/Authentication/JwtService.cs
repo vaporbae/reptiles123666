@@ -15,9 +15,9 @@
     using ReptoRepto.Application.Models;
     using ReptoRepto.Persistence;
 
-    public class JwtService : IJwtService
+    public class JwtService //: IJwtService
     {
-        private readonly ReptoReptoDbContext _context;
+        /*private readonly ReptoReptoDbContext _context;
         private readonly IOptions<JwtSettings> _jwt;
         public JwtService(ReptoReptoDbContext context, IOptions<JwtSettings> jwt)
         {
@@ -66,5 +66,6 @@
 
             return new JwtTokenModel { Token = tokenHandler.WriteToken(result), ValidTo = result.ValidTo };
         }
+        */
     }
 }

@@ -37,11 +37,12 @@ namespace ReptoRepto
             services.AddAutoMapper(new Assembly[] { typeof(AutoMapperProfile).GetTypeInfo().Assembly });
 
 
-            services.AddMediatR(typeof(GetUserDetailQueryHandler).GetTypeInfo().Assembly);
+            /*services.AddMediatR(typeof(GetUserDetailQueryHandler).GetTypeInfo().Assembly);
 
             services.AddMvc(options => options.Filters.Add(typeof(CustomExceptionFilterAttribute)))
             .SetCompatibilityVersion(CompatibilityVersion.Version_2_1)
             .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateUserCommandValidator>());
+            */
 
             var jwtSettingsSection = Configuration.GetSection("JwtSettings");
             services.Configure<JwtSettings>(jwtSettingsSection);
@@ -70,7 +71,7 @@ namespace ReptoRepto
             services.AddDbContext<ReptoReptoDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("ReptoReptoDatabase")));
 
-            services.AddTransient<IJwtService, JwtService>();
+           // services.AddTransient<IJwtService, JwtService>();
 
             services.AddCors(options => //TODO: Change cors only to our server
             {

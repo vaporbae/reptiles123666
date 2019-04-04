@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 using ReptoRepto.Domain.Entities.Base;
 
-namespace SmartSchedule.Domain.Entities
+namespace ReptoRepto.Domain.Entities
 {
     public class Image : BaseEntity<int>
     {
         public string Url { get; set; }
         public int PostId { get; set; }
         
-        public Post Post { get; set; }
+        public virtual Post Post { get; set; }
     }
 }

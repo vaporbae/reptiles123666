@@ -4,3 +4,19 @@ C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\net
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.AssemblyInfo.cs
 C:\Users\m.kalisz\source\repos\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.csprojAssemblyReference.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Infrastructure.deps.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Infrastructure.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Infrastructure.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Application.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Persistence.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Application.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Persistence.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\bin\Debug\netstandard2.0\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.csprojAssemblyReference.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.AssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.csproj.CopyComplete
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\ReptoRepto.Infrastrucute\obj\Debug\netstandard2.0\ReptoRepto.Infrastructure.pdb

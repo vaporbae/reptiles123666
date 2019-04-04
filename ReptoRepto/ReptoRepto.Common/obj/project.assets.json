@@ -256,11 +256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.kalisz\\source\\repos\\ReptoRepto\\ReptoRepto.Common\\ReptoRepto.Common.csproj",
+      "projectUniqueName": "C:\\Users\\m.kalisz\\Documents\\Visual Studio 2017\\reptiles123666\\ReptoRepto\\ReptoRepto.Common\\ReptoRepto.Common.csproj",
       "projectName": "ReptoRepto.Common",
-      "projectPath": "C:\\Users\\m.kalisz\\source\\repos\\ReptoRepto\\ReptoRepto.Common\\ReptoRepto.Common.csproj",
+      "projectPath": "C:\\Users\\m.kalisz\\Documents\\Visual Studio 2017\\reptiles123666\\ReptoRepto\\ReptoRepto.Common\\ReptoRepto.Common.csproj",
       "packagesPath": "C:\\Users\\m.kalisz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.kalisz\\source\\repos\\ReptoRepto\\ReptoRepto.Common\\obj\\",
+      "outputPath": "C:\\Users\\m.kalisz\\Documents\\Visual Studio 2017\\reptiles123666\\ReptoRepto\\ReptoRepto.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

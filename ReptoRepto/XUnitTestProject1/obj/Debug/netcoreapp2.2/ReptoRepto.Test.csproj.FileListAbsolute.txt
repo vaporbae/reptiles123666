@@ -2,3 +2,30 @@ C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp
 C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.csproj.CoreCompileInputs.cache
 C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.AssemblyInfoInputs.cache
 C:\Users\m.kalisz\source\repos\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.AssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Test.deps.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Test.runtimeconfig.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Test.runtimeconfig.dev.json
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Test.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Test.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Api.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Application.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Common.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Domain.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Infrastructure.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Persistence.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Application.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Common.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Domain.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Infrastructure.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Persistence.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\bin\Debug\netcoreapp2.2\ReptoRepto.Api.pdb
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.csprojAssemblyReference.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.csproj.CoreCompileInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.AssemblyInfoInputs.cache
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.AssemblyInfo.cs
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.csproj.CopyComplete
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.dll
+C:\Users\m.kalisz\Documents\Visual Studio 2017\reptiles123666\ReptoRepto\XUnitTestProject1\obj\Debug\netcoreapp2.2\ReptoRepto.Test.pdb
