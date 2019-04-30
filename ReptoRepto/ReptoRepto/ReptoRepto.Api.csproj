@@ -23,9 +23,4 @@
     <ProjectReference Include="..\ReptoRepto.Persistence\ReptoRepto.Persistence.csproj" />
   </ItemGroup>
 
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

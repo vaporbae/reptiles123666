@@ -14,7 +14,7 @@ namespace ReptoRepto.Persistence.Infrastructure
 
         public TContext CreateDbContext(string[] args)
         {
-            var basePath = Directory.GetCurrentDirectory() + string.Format("{0}..{0}ReptoRepto.Api", Path.DirectorySeparatorChar);
+            var basePath = Directory.GetCurrentDirectory() + string.Format("{0}..{0}ReptoRepto", Path.DirectorySeparatorChar);
 
             return Create(basePath, Environment.GetEnvironmentVariable(AspNetCoreEnvironment));
         }
@@ -32,7 +32,7 @@ namespace ReptoRepto.Persistence.Infrastructure
                 .AddEnvironmentVariables()
                 .Build();
 
-            var connectionString = configuration.GetConnectionString(ConnectionStringName);
+            var connectionString = "Server=tcp:sqlserver2016r2.database.windows.net,1433;Initial Catalog=ReptoRepto;Persist Security Info=False;User ID={your_username};Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30";
 
             return Create(connectionString);
         }

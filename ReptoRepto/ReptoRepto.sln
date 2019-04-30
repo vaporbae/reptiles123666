@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Api", "ReptoRepto\ReptoRepto.Api.csproj", "{C9CA69D6-E6AF-4C67-BEEB-6960D96ED7A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Api", "ReptoRepto\ReptoRepto.Api.csproj", "{C9CA69D6-E6AF-4C67-BEEB-6960D96ED7A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9522F2BD-4F48-413B-B110-B686011D64D0}"
 EndProject
@@ -15,17 +15,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{120C41F0-43C8-48FF-92B2-9D09E5143F2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Common", "ReptoRepto.Common\ReptoRepto.Common.csproj", "{AD5FA797-1A88-449C-A872-E6E03C825CD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Common", "ReptoRepto.Common\ReptoRepto.Common.csproj", "{AD5FA797-1A88-449C-A872-E6E03C825CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Application", "ReptoRepto.Application\ReptoRepto.Application.csproj", "{A7CCE744-BAC7-4543-A925-C5CE285046FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Application", "ReptoRepto.Application\ReptoRepto.Application.csproj", "{A7CCE744-BAC7-4543-A925-C5CE285046FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Domain", "ReptoRepto.Domain\ReptoRepto.Domain.csproj", "{1F400162-E8E1-46FC-8D39-B3665C76501C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Domain", "ReptoRepto.Domain\ReptoRepto.Domain.csproj", "{1F400162-E8E1-46FC-8D39-B3665C76501C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Infrastructure", "ReptoRepto.Infrastrucute\ReptoRepto.Infrastructure.csproj", "{8A9E1BD7-E168-4C36-9D44-75A0F9ED04E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Infrastructure", "ReptoRepto.Infrastrucute\ReptoRepto.Infrastructure.csproj", "{8A9E1BD7-E168-4C36-9D44-75A0F9ED04E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Persistence", "ReptoRepto.Persistence\ReptoRepto.Persistence.csproj", "{9A6C8E27-10ED-480C-877F-3D6537E89BFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Persistence", "ReptoRepto.Persistence\ReptoRepto.Persistence.csproj", "{9A6C8E27-10ED-480C-877F-3D6537E89BFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReptoRepto.Test", "XUnitTestProject1\ReptoRepto.Test.csproj", "{FB07A72B-E356-4AEC-8C45-FD93CB3996A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReptoRepto.Test", "XUnitTestProject1\ReptoRepto.Test.csproj", "{FB07A72B-E356-4AEC-8C45-FD93CB3996A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{43D7C9A4-5274-41D5-B4CF-56D9CC999BF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{FB07A72B-E356-4AEC-8C45-FD93CB3996A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB07A72B-E356-4AEC-8C45-FD93CB3996A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB07A72B-E356-4AEC-8C45-FD93CB3996A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D7C9A4-5274-41D5-B4CF-56D9CC999BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D7C9A4-5274-41D5-B4CF-56D9CC999BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D7C9A4-5274-41D5-B4CF-56D9CC999BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D7C9A4-5274-41D5-B4CF-56D9CC999BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

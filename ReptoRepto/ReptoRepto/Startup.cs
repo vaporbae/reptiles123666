@@ -3,7 +3,6 @@ using System.Text;
 using AutoMapper;
 using FluentValidation.AspNetCore;
 using MediatR;
-using MediatR.Pipeline;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -13,6 +12,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using ReptoRepto.Api.Filters;
+using ReptoRepto.Application.Image.Commands.CreateImage;
+using ReptoRepto.Application.Image.Queries.GetImageDetails;
 using ReptoRepto.Application.Infrastructure.AutoMapper;
 using ReptoRepto.Application.Interfaces;
 using ReptoRepto.Application.Models;
@@ -37,12 +38,12 @@ namespace ReptoRepto
             services.AddAutoMapper(new Assembly[] { typeof(AutoMapperProfile).GetTypeInfo().Assembly });
 
 
-            /*services.AddMediatR(typeof(GetUserDetailQueryHandler).GetTypeInfo().Assembly);
+            services.AddMediatR(typeof(GetImageDetailQueryHandler).GetTypeInfo().Assembly);
 
             services.AddMvc(options => options.Filters.Add(typeof(CustomExceptionFilterAttribute)))
             .SetCompatibilityVersion(CompatibilityVersion.Version_2_1)
-            .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateUserCommandValidator>());
-            */
+            .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateImageCommandValidator>());
+            
 
             var jwtSettingsSection = Configuration.GetSection("JwtSettings");
             services.Configure<JwtSettings>(jwtSettingsSection);
@@ -71,7 +72,7 @@ namespace ReptoRepto
             services.AddDbContext<ReptoReptoDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("ReptoReptoDatabase")));
 
-           // services.AddTransient<IJwtService, JwtService>();
+            services.AddTransient<IJwtService, JwtService>();
 
             services.AddCors(options => //TODO: Change cors only to our server
             {

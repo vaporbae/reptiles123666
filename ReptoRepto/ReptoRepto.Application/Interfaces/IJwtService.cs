@@ -6,6 +6,6 @@
 
     public interface IJwtService
     {
-        //Task<IActionResult> Login(EmailSignInModel model);
+        Task<IActionResult> Login(LoginSignInModel model);
     }
 }

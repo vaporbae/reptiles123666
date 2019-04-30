@@ -15,28 +15,28 @@
     using ReptoRepto.Application.Models;
     using ReptoRepto.Persistence;
 
-    public class JwtService //: IJwtService
+    public class JwtService : IJwtService
     {
-        /*private readonly ReptoReptoDbContext _context;
+        private readonly ReptoReptoDbContext _context;
         private readonly IOptions<JwtSettings> _jwt;
         public JwtService(ReptoReptoDbContext context, IOptions<JwtSettings> jwt)
         {
             _context = context;
             _jwt = jwt;
         }
-        public async Task<IActionResult> Login(EmailSignInModel model)
+        public async Task<IActionResult> Login(LoginSignInModel model)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(x => x.Email.Equals(model.Email));
+            var user = await _context.Users.FirstOrDefaultAsync(x => x.Login.Equals(model.Login));
             if (user == null)
             {
-                throw new NotFoundException(model.Email, -1);
+                throw new NotFoundException(model.Login, -1);
             }
             else if (!PasswordHelper.ValidatePassword(model.Password, user.Password))
             {
                 return new UnauthorizedResult();
             }
 
-            return new ObjectResult(GenerateJwtToken(model.Email, user.Id, false));
+            return new ObjectResult(GenerateJwtToken(model.Login, user.Id, true));
         }
 
         private JwtTokenModel GenerateJwtToken(string email, int id, bool isAdmin)
@@ -58,7 +58,7 @@
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = claims,
-                Expires = DateTime.UtcNow.AddMinutes(20),
+                Expires = DateTime.UtcNow.AddMinutes(60),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key),
                 SecurityAlgorithms.HmacSha256Signature)
             };
@@ -66,6 +66,6 @@
 
             return new JwtTokenModel { Token = tokenHandler.WriteToken(result), ValidTo = result.ValidTo };
         }
-        */
+        
     }
 }

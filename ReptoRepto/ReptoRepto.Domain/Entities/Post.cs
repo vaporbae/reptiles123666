@@ -12,7 +12,6 @@ namespace ReptoRepto.Domain.Entities
 
         public virtual Category Category { get; set; }
 
-        public virtual ICollection<Image> Images { get; set; }
         public virtual ICollection<Comment> Comments { get; set; }
         public virtual ICollection<Source> Sources { get; set; }
     }

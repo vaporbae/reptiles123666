@@ -17,4 +17,13 @@
     <ProjectReference Include="..\ReptoRepto.Persistence\ReptoRepto.Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Category\" />
+    <Folder Include="Comment\" />
+    <Folder Include="Source\" />
+    <Folder Include="Post\" />
+    <Folder Include="User\Commands\" />
+    <Folder Include="User\Queries\" />
+  </ItemGroup>
+
 </Project>

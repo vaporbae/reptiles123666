@@ -6,8 +6,5 @@ namespace ReptoRepto.Domain.Entities
     public class Image : BaseEntity<int>
     {
         public string Url { get; set; }
-        public int PostId { get; set; }
-        
-        public virtual Post Post { get; set; }
     }
 }
