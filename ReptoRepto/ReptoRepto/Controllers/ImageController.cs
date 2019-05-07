@@ -7,7 +7,7 @@
     using ReptoRepto.Application.Image.Queries.GetImageList;
     using System.Threading.Tasks;
 
-    public class CalendarController : BaseController
+    public class ImageController : BaseController
     {
         [HttpPost("/api/CreateImage")]
         public async Task<IActionResult> CreateImage([FromBody]CreateImageCommand image)

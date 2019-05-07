@@ -18,10 +18,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Category\" />
     <Folder Include="Comment\" />
+    <Folder Include="Post\Commands\CreatePost\" />
+    <Folder Include="Post\Commands\DeletePost\" />
+    <Folder Include="Post\Commands\UpdatePost\" />
+    <Folder Include="Post\Queries\GetPostDetails\" />
+    <Folder Include="Post\Queries\GetPostList\" />
+    <Folder Include="Post\Queries\SearchPostsByTitle\" />
     <Folder Include="Source\" />
-    <Folder Include="Post\" />
     <Folder Include="User\Commands\" />
     <Folder Include="User\Queries\" />
   </ItemGroup>
